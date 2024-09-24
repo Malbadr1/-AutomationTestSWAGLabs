@@ -1,0 +1,133 @@
+[INFO] 2024-09-22 18:53:58 pm [Tests.TC03_CartPageTest.setupBrowser(TC03_CartPageTest.java:35)] - edge Browser is opened
+[INFO] 2024-09-22 18:53:58 pm [Tests.TC03_CartPageTest.setupBrowser(TC03_CartPageTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:53:58 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:53:58 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:53:58 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 4
+[INFO] 2024-09-22 18:53:58 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 6
+[INFO] 2024-09-22 18:53:59 pm [Pages.P02_LandingPage.getTotalPriceOfSelectedProducts(P02_LandingPage.java:115)] - Total Price : 65.98
+[INFO] 2024-09-22 18:53:59 pm [Pages.P03_CartPage.getTotalPrice(P03_CartPage.java:37)] - Total Price : 65.98
+[INFO] 2024-09-22 18:53:59 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:53:59 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:00 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:00 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53190}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53190/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:01 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:42)] - edge Browser is opened
+[INFO] 2024-09-22 18:54:01 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:44)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:01 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:01 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:02 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-22 18:54:02 pm [Tests.TC05_OverviewPageTest.checkOutStepsOverviewTc(TC05_OverviewPageTest.java:69)] - FTest-2024-09-22-55-pm LTest-2024-09-22-55-pm 50487
+[INFO] 2024-09-22 18:54:02 pm [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] -  Calculate Total Price : 140.34
+[INFO] 2024-09-22 18:54:03 pm [Pages.P05_OverviewPage.getTotalLabel(P05_OverviewPage.java:29)] - Actual Total Label: 140.34
+[INFO] 2024-09-22 18:54:03 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:03 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:04 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:04 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53210}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53210/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:05 pm [Tests.TC01_LoginTest.setupBrowser(TC01_LoginTest.java:35)] - Edge Browser is opened
+[INFO] 2024-09-22 18:54:05 pm [Tests.TC01_LoginTest.setupBrowser(TC01_LoginTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:05 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:05 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:06 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:06 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:07 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:07 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53234}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53234/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:08 pm [Tests.TC06_FinishingOrderPageTest.setupBrowser(TC06_FinishingOrderPageTest.java:43)] - edge Browser is opened
+[INFO] 2024-09-22 18:54:08 pm [Tests.TC06_FinishingOrderPageTest.setupBrowser(TC06_FinishingOrderPageTest.java:45)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:08 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:08 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:09 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-22 18:54:10 pm [Tests.TC06_FinishingOrderPageTest.finishingOrderTc(TC06_FinishingOrderPageTest.java:63)] - FTest-2024-09-22-55-pm LTest-2024-09-22-55-pm 44159
+[INFO] 2024-09-22 18:54:10 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:10 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:11 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:11 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53250}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53250/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:12 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_CheckOutTest.java:43)] - edge Browser is opened
+[INFO] 2024-09-22 18:54:12 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_CheckOutTest.java:45)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:12 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:12 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:13 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 1
+[INFO] 2024-09-22 18:54:13 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 4
+[INFO] 2024-09-22 18:54:13 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:13 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:14 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:14 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53270}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53270/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:15 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:35)] -  Browser is opened
+[INFO] 2024-09-22 18:54:16 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:17 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:17 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 2024-09-22 18:54:18 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-22 18:54:18 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:19 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:19 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:19 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-22 18:54:19 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:55)] - Numbers Of Products In Cart : 6
+[INFO] 2024-09-22 18:54:19 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 6
+[INFO] 2024-09-22 18:54:19 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:20 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:21 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:21 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53308}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53308/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:22 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-22 18:54:22 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:22 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:23 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:23 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-22 18:54:23 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:55)] - Numbers Of Products In Cart : 6
+[INFO] 2024-09-22 18:54:23 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 6
+[INFO] 2024-09-22 18:54:23 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:23 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:25 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:25 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53326}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53326/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:26 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-22 18:54:26 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:54:26 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:26 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:54:27 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:54:27 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:54:28 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:28 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53347}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53347/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:54:28 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:54:28 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53347}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53347/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}

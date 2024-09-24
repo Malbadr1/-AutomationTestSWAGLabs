@@ -1,0 +1,17 @@
+[INFO] 2024-09-18 19:44:52 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:42)] - firefox Browser is opened
+[INFO] 2024-09-18 19:44:52 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:44)] - Page is redirected to the URL 
+[INFO] 2024-09-18 19:44:52 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-18 19:44:52 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-18 19:44:53 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-18 19:44:55 pm [Tests.TC05_OverviewPageTest.checkOutStepsOverviewTc(TC05_OverviewPageTest.java:69)] - FTest-2024-09-18-48-pm LTest-2024-09-18-48-pm 71611
+[INFO] 2024-09-18 19:44:55 pm [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:34)] -  Calculate Total Price : 140.34
+[INFO] 2024-09-18 19:44:55 pm [Pages.P05_OverviewPage.getTotalLabel(P05_OverviewPage.java:29)] - Actual Total Label: 140.34
+[INFO] 2024-09-18 19:44:55 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-18 19:44:55 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-18 19:44:56 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[ERROR] 2024-09-18 19:44:56 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 129.0.2, moz:accessibilityChecks: false, moz:buildID: 20240819150008, moz:debuggerAddress: 127.0.0.1:15366, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 23.6.0, moz:processID: 3070, moz:profile: /var/folders/7q/cn48z6fd3bx..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://127.0.0.1:15366/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}

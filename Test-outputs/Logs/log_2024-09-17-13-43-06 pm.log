@@ -1,0 +1,15 @@
+[INFO] 2024-09-17 13:43:06 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:42)] - edge Browser is opened
+[INFO] 2024-09-17 13:43:06 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:44)] - Page is redirected to the URL
+[INFO] 2024-09-17 13:43:06 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-17 13:43:07 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-17 13:43:07 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 2
+[INFO] 2024-09-17 13:43:07 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 3
+[INFO] 2024-09-17 13:43:08 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-17 13:43:08 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-17 13:43:09 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[ERROR] 2024-09-17 13:43:09 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 128.0.2739.79, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:63505}, msedge: {msedgedriverVersion: 128.0.2739.81 (8bf7d8da41a7..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63505/devtoo..., se:cdpVersion: 128.0.2739.79, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}

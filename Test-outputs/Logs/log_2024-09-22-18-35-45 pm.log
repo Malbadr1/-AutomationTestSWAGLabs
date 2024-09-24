@@ -1,0 +1,27 @@
+[INFO] 2024-09-22 18:35:45 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:35)] -  Browser is opened
+[INFO] 2024-09-22 18:35:45 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:35:47 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:35:47 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 2024-09-22 18:35:48 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-22 18:35:49 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-22 18:35:49 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:35:49 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-22 18:35:49 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-22 18:35:50 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:55)] - Numbers Of Products In Cart : 6
+[INFO] 2024-09-22 18:35:50 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 6
+[INFO] 2024-09-22 18:35:50 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-22 18:35:50 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-22 18:35:51 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:35:51 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52770}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52770/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-22 18:35:51 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-22 18:35:51 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52770}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52770/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}

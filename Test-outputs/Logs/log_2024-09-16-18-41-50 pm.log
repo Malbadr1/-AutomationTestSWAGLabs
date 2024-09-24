@@ -1,0 +1,15 @@
+[INFO] 2024-09-16 18:41:50 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:43)] - safari Browser is opened
+[INFO] 2024-09-16 18:41:50 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:45)] - Page is redirected to the URL
+[INFO] 2024-09-16 18:41:50 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-16 18:41:50 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-16 18:41:51 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 3
+[INFO] 2024-09-16 18:41:51 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 6
+[INFO] 2024-09-16 18:41:53 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-16 18:41:53 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-16 18:42:03 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[ERROR] 2024-09-16 18:42:03 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}

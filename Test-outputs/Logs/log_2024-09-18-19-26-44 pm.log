@@ -1,0 +1,13 @@
+[INFO] 2024-09-18 19:26:44 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:42)] - safari Browser is opened
+[INFO] 2024-09-18 19:26:45 pm [Tests.TC05_OverviewPageTest.setupBrowser(TC05_OverviewPageTest.java:44)] - Page is redirected to the URL 
+[INFO] 2024-09-18 19:26:45 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-18 19:26:45 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-18 19:26:46 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:25)] - Test Case : null failed
+[INFO] 2024-09-18 19:26:46 pm [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:17)] - Test Case : null failure
+[INFO] 2024-09-18 19:26:56 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[ERROR] 2024-09-18 19:26:56 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}

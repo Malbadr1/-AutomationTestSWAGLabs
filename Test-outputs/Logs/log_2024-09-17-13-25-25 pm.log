@@ -1,0 +1,15 @@
+[INFO] 2024-09-17 13:25:25 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:43)] - chrome Browser is opened
+[INFO] 2024-09-17 13:25:25 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:45)] - Page is redirected to the URL
+[INFO] 2024-09-17 13:25:25 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[INFO] 2024-09-17 13:25:26 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-17 13:25:26 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 3
+[INFO] 2024-09-17 13:25:27 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 4
+[INFO] 2024-09-17 13:25:47 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:25)] - Test Case : null failed
+[INFO] 2024-09-17 13:25:48 pm [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:17)] - Test Case : null failure
+[INFO] 2024-09-17 13:25:48 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
+[ERROR] 2024-09-17 13:25:48 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.23.0', revision: '4df0a231af'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51569}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51569/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}

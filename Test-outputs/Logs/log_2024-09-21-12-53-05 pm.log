@@ -1,0 +1,75 @@
+[INFO] 2024-09-21 12:53:05 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:35)] -  Browser is opened
+[INFO] 2024-09-21 12:53:06 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-21 12:53:07 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 12:53:07 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 2024-09-21 12:53:08 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 12:53:09 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 12:53:09 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 12:53:09 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 12:53:09 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 0
+[ERROR] 2024-09-21 12:53:14 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:58)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_container (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64598}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64598/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 330c3ba47211345aeb3572c6987aadb6
+[INFO] 2024-09-21 12:53:14 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 0
+[INFO] 2024-09-21 12:53:14 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:38)] - Test Case : null failed
+[INFO] 2024-09-21 12:53:14 pm [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:17)] - Test Case : null failure
+[INFO] 2024-09-21 12:53:15 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 12:53:15 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64598}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64598/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-21 12:53:16 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 12:53:17 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 12:53:17 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 12:53:17 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 12:53:17 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 0
+[ERROR] 2024-09-21 12:53:22 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:58)] - Expected condition failed: waiting for visibility of element located by By.className: shopping_cart_container (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64620}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64620/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6a00a3cfb7a2285a5aa83da2bfea5dc6
+[INFO] 2024-09-21 12:53:22 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 0
+[INFO] 2024-09-21 12:53:22 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:38)] - Test Case : null failed
+[INFO] 2024-09-21 12:53:22 pm [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:17)] - Test Case : null failure
+[INFO] 2024-09-21 12:53:23 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 12:53:23 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64620}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64620/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-21 12:53:24 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 12:53:24 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 12:53:25 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 12:53:25 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 12:53:40 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:38)] - Test Case : null failed
+[ERROR] 2024-09-21 12:53:40 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=129.0.2792.52)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [b5a5620ca87bb4fb47e205836ed67e90, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64642}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64642/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b5a5620ca87bb4fb47e205836ed67e90
+[INFO] 2024-09-21 12:53:40 pm [Listeners.ITestResultListenerClass.onTestFailure(ITestResultListenerClass.java:17)] - Test Case : null failure
+[INFO] 2024-09-21 12:53:41 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 12:53:41 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64642}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64642/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+[INFO] 2024-09-21 12:53:41 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 12:53:41 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 129.0.2792.52, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:64642}, msedge: {msedgedriverVersion: 129.0.2792.46 (0d180bf4cf2b..., userDataDir: /var/folders/7q/cn48z6fd3bx...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64642/devtoo..., se:cdpVersion: 129.0.2792.52, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}

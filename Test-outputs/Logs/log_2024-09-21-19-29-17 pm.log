@@ -1,0 +1,56 @@
+[INFO] 2024-09-21 19:29:17 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:35)] -  Browser is opened
+[INFO] 2024-09-21 19:29:18 pm [Tests.TC02_LandingPageTest.login(TC02_LandingPageTest.java:37)] - Page is redirected to the URL 
+[INFO] 2024-09-21 19:29:28 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 19:29:28 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
+[INFO] 2024-09-21 19:29:29 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 19:29:30 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 19:29:30 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:31 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 19:29:31 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-21 19:29:31 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:55)] - Numbers Of Products In Cart : 6
+[INFO] 2024-09-21 19:29:31 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 6
+[INFO] 2024-09-21 19:29:31 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:31 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-21 19:29:42 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 19:29:42 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+[INFO] 2024-09-21 19:29:43 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 19:29:43 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 19:29:43 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:44 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 19:29:44 pm [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:40)] - number of all products To cart : 6
+[INFO] 2024-09-21 19:29:44 pm [Pages.P02_LandingPage.getNumbersOfProductsInCart(P02_LandingPage.java:55)] - Numbers Of Products In Cart : 6
+[INFO] 2024-09-21 19:29:44 pm [Pages.P02_LandingPage.getNumbersOfSelectedProducts(P02_LandingPage.java:69)] - Numbers Of Selected Products : 6
+[INFO] 2024-09-21 19:29:44 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:44 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-21 19:29:55 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 19:29:55 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+[INFO] 2024-09-21 19:29:56 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:52)] -  Browser is opened
+[INFO] 2024-09-21 19:29:56 pm [Tests.TC02_LandingPageTest.setupBrowser(TC02_LandingPageTest.java:54)] - Page is redirected to the URL 
+[INFO] 2024-09-21 19:29:56 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:57 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
+[INFO] 2024-09-21 19:29:57 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[INFO] 2024-09-21 19:29:57 pm [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:13)] - Test Case : null passed
+[INFO] 2024-09-21 19:30:07 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 19:30:07 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
+[INFO] 2024-09-21 19:30:07 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:44)] - Test Case : nullpassed
+[ERROR] 2024-09-21 19:30:07 pm [Utilities.Utility.takeScreenShot(Utility.java:172)] - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.6.1', java.version: '22.0.2'
+Driver info: org.openqa.selenium.safari.SafariDriver
+Command: [null, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: Safari, browserVersion: 17.6, platformName: mac, safari:automaticInspection: false, safari:automaticProfiling: false, safari:diagnose: false, safari:platformBuildVersion: 23G93, safari:platformVersion: 14.6.1, safari:useSimulator: false, setWindowRect: true, strictFileInteractability: false, webkit:WebRTC: {DisableICECandidateFiltering: false, DisableInsecureMediaCapture: false}}
