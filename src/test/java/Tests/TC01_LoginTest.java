@@ -29,7 +29,7 @@ public class TC01_LoginTest {
     }
 
 
-    @BeforeMethod
+    @BeforeMethod(alwaysRun = true)
     public void setupBrowser() throws IOException {
 
 
