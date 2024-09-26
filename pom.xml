@@ -48,11 +48,7 @@
                 <executions>
                     <execution>
                         <phase>test</phase>
-                        <goals>
-                            <goal>
-
-                            </goal>
-                        </goals>
+                        
                     </execution>
                 </executions>
                 <configuration>
