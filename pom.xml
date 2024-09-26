@@ -50,7 +50,7 @@
                         <phase>test</phase>
                         <goals>
                             <goal>
-                                serve
+
                             </goal>
                         </goals>
                     </execution>
