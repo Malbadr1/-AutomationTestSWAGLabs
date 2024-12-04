@@ -1,8 +1,0 @@
-[INFO] 2024-09-18 19:26:33 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:25)] - Test Case : null failed
-[ERROR] 2024-09-18 19:26:33 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
-[INFO] 2024-09-18 19:26:34 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
-[INFO] 2024-09-18 19:26:34 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
-[ERROR] 2024-09-18 19:26:34 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null
-[INFO] 2024-09-18 19:26:34 pm [Listeners.ITestResultListenerClass.onTestSkipped(ITestResultListenerClass.java:25)] - Test Case : null skip
-[INFO] 2024-09-18 19:26:34 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
-[ERROR] 2024-09-18 19:26:34 pm [Utilities.Utility.takeScreenShot(Utility.java:175)] - Cannot invoke "org.openqa.selenium.TakesScreenshot.getScreenshotAs(org.openqa.selenium.OutputType)" because "driver" is null

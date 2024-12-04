@@ -1,6 +1,0 @@
-[INFO] 2024-09-16 17:42:59 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:43)] - safari Browser is opened
-[INFO] 2024-09-16 17:43:00 pm [Tests.TC04_CheckOutTest.setupBrowser(TC04_chekOutTest.java:45)] - Page is redirected to the URL
-[INFO] 2024-09-16 17:43:00 pm [Listeners.IInvokedMethodListenersClass.afterInvocation(IInvokedMethodListenersClass.java:31)] - Test Case : nullpassed
-[INFO] 2024-09-16 17:43:00 pm [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:9)] - Test Case : null  started
-[INFO] 2024-09-16 17:43:00 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 4
-[INFO] 2024-09-16 17:43:01 pm [Pages.P02_LandingPage.addRandomProducts(P02_LandingPage.java:81)] - randomNumber : 5
